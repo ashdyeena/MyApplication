@@ -30,7 +30,7 @@ public class RegisterActivity extends ActionBarActivity {
 
         // listen to sign up button
 
-        
+
     }
 
 
